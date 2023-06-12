@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">UnitConverter</string>
+    <string name="type">Type</string>
+    <string name="convert_from_unit">Convert from unit</string>
+    <string name="convert_to_unit">Convert to unit</string>
+    <string name="unit_icon">Unit icon</string>
+    <string name="clear_icon">Clear icon</string>
+    <string name="calculate_icon">Calculate icon</string>
+    <string name="number">Number</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="calculate">Calculate</string>
 </resources>
